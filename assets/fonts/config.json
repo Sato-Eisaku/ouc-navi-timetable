@@ -1,0 +1,64 @@
+{
+  "name": "MyIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "89484536f808d9c76852fb1dc9fcce0f",
+      "css": "train",
+      "code": 59471,
+      "src": "linearicons"
+    },
+    {
+      "uid": "5a100b8e4b7f3722cfa440175c989ba4",
+      "css": "bus",
+      "code": 59469,
+      "src": "linearicons"
+    },
+    {
+      "uid": "8c532412fa1f2e568c495ce22d84d8e2",
+      "css": "arrow-up",
+      "code": 59511,
+      "src": "linearicons"
+    },
+    {
+      "uid": "1a5ec8d3a5d39016d61b4d122d4e3674",
+      "css": "arrow-down",
+      "code": 59512,
+      "src": "linearicons"
+    },
+    {
+      "uid": "deae611810850ff02ea1a877a0f09891",
+      "css": "arrow-left",
+      "code": 59513,
+      "src": "linearicons"
+    },
+    {
+      "uid": "e55d79482de45e2a6a01b899221c510f",
+      "css": "arrow-right",
+      "code": 59514,
+      "src": "linearicons"
+    },
+    {
+      "uid": "c0f9d2c29bd624cd93d16f0aa12aacfa",
+      "css": "graduation-hat",
+      "code": 59425,
+      "src": "linearicons"
+    },
+    {
+      "uid": "7c638496e4c7e626bc48bb5d8e6adc1d",
+      "css": "home",
+      "code": 59392,
+      "src": "linearicons"
+    },
+    {
+      "uid": "dbe415e93c853b22611b0d01f340c18b",
+      "css": "apartment",
+      "code": 59393,
+      "src": "linearicons"
+    }
+  ]
+}
