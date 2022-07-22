@@ -1,9 +1,41 @@
 {
-    "busFromStationToUniversity": {
-        "textTraffic": "Bus",
-        "iconTraffic": "bus",
-        "iconDeparture": "apartment",
+    "jrFromSapporoToOtaru": {
+        "iconTraffic": "train",
+        "textTraffic": "JR",
         "iconDestination": "graduation_hat",
+        "textDestination": "Otaru",
+        "timetable": {
+            "timetableWeekday": [
+                "12:20",
+                "13:49",
+                "14:29",
+                "15:13",
+                "16:25",
+                "17:00"
+            ],
+            "timetableSaturday": [
+                "12:05",
+                "13:35",
+                "14:50",
+                "15:55",
+                "16:51",
+                "17:38"
+            ],
+            "timetableHoliday": [
+                "12:10",
+                "13:40",
+                "14:55",
+                "15:00",
+                "16:56",
+                "17:43"
+            ]
+        }
+    },
+    "busFromStationToUniversity": {
+        "iconTraffic": "bus",
+        "textTraffic": "Bus",
+        "iconDestination": "graduation_hat",
+        "textDestination": "Univ",
         "timetable": {
             "timetableWeekday": [
                 "12:00",
@@ -32,10 +64,10 @@
         }
     },
     "busFromUniversityToStation": {
-        "textTraffic": "Bus",
         "iconTraffic": "bus",
-        "iconDeparture": "graduation_hat",
+        "textTraffic": "Bus",
         "iconDestination": "apartment",
+        "textDestination": "Station",
         "timetable": {
             "timetableWeekday": [
                 "12:10",
@@ -63,32 +95,36 @@
             ]
         }
     },
-    "jrFromStationToUniversity": {
-        "textTraffic": "JR",
+    "jrFromOtaruToSapporo": {
         "iconTraffic": "train",
-        "iconDeparture": "apartment",
-        "iconDestination": "graduation_hat",
-        "timetable": [
-            "12:20",
-            "13:49",
-            "14:29",
-            "15:13",
-            "16:25",
-            "17:00"
-        ]
-    },
-    "jrFromUniversityToStation": {
         "textTraffic": "JR",
-        "iconTraffic": "train",
-        "iconDeparture": "graduation_hat",
         "iconDestination": "apartment",
-        "timetable": [
-            "12:23",
-            "13:13",
-            "14:04",
-            "15:24",
-            "16:56",
-            "17:09"
-        ]
+        "textDestination": "Sapporo",
+        "timetable": {
+            "timetableWeekday": [
+                "12:23",
+                "13:13",
+                "14:04",
+                "15:24",
+                "16:56",
+                "17:09"
+            ],
+            "timetableSaturday": [
+                "12:05",
+                "13:35",
+                "14:50",
+                "15:55",
+                "16:51",
+                "17:38"
+            ],
+            "timetableHoliday": [
+                "12:10",
+                "13:40",
+                "14:55",
+                "15:00",
+                "16:56",
+                "17:43"
+            ]
+        }
     }
 }
