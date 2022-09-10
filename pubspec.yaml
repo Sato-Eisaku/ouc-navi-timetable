@@ -37,6 +37,9 @@ dependencies:
   intl: ^0.17.0
   json_annotation: ^4.6.0
   freezed_annotation: ^2.0.3
+  nholiday_jp: ^1.0.2
+  collection: ^1.16.0
+  flutter_staggered_animations: ^1.1.1
 
 
 dev_dependencies:
@@ -65,7 +68,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/
+    - assets/json/
 
   fonts:
     - family: MyIcons
