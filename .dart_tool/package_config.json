@@ -176,6 +176,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_staggered_animations",
+      "rootUri": "file:///Users/satoueisaku/Development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_staggered_animations-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///Users/satoueisaku/Development/flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -300,6 +306,12 @@
       "rootUri": "file:///Users/satoueisaku/Development/flutter/.pub-cache/hosted/pub.dartlang.org/mime-1.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "nholiday_jp",
+      "rootUri": "file:///Users/satoueisaku/Development/flutter/.pub-cache/hosted/pub.dartlang.org/nholiday_jp-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
     },
     {
       "name": "package_config",
@@ -518,7 +530,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-07-22T03:19:03.317031Z",
+  "generated": "2022-08-26T16:07:33.554365Z",
   "generator": "pub",
   "generatorVersion": "2.17.0"
 }

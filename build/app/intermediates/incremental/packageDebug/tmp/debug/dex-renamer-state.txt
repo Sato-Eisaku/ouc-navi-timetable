@@ -1,0 +1,4 @@
+#Sat Aug 27 02:31:25 JST 2022
+base.0=/Users/satoueisaku/Documents/GitHub/ouc-navi-timetable/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
